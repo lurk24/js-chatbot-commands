@@ -1,0 +1,1 @@
+$[cost 42000] $[event -t $(urlencode someone just used !snoop) -s $(urlencode SMOKE WEED EVERDAY!) -d 5000 -i https://cdn.streamelements.com/uploads/263f0b63-76d4-45f1-96e5-50c8a4a3196c.mp4] $(username) used !snoop so lets blaze it up!
