@@ -1,0 +1,1 @@
+$[event -t $(urlencode get notified when i go live) -s $(urlencode use !notify in chat) -d 5000 -i https://cdn.streamelements.com/uploads/9021b6e8-d105-479a-8010-6528b01314d8.mp4] thank you $(username) for setting up live notifications via the !notify command
